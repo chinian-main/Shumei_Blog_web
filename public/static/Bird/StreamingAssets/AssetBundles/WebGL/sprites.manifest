@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 4237566164
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0c0033bd0c6a55ed8cc7142a55d1f125
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12da798fbf3a6c0c342cc56cb1a6efdf
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Sprites/cloud.png
+- Assets/Art/Sprites/Pipe.png
+- Assets/Art/Sprites/Player.png
+- Assets/Art/Sprites/TwoCloud.png
+- Assets/Art/Sprites/Mount.png
+Dependencies: []

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 171341409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 64047b71e8d8500f0f8ddc5afce112f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Audio/Score_Bird.wav
+- Assets/Art/Audio/Jump_Bird.wav
+- Assets/Art/Audio/Die_Bird.wav
+Dependencies: []

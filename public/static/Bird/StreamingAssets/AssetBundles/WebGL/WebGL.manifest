@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 626287950
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: imageprefabc_prefab
+      Dependencies:
+        Dependency_0: c_png
+    Info_1:
+      Name: a_png
+      Dependencies: {}
+    Info_2:
+      Name: imageprefabb_prefab
+      Dependencies:
+        Dependency_0: b_png
+    Info_3:
+      Name: c_png
+      Dependencies: {}
+    Info_4:
+      Name: imageprefaba_prefab
+      Dependencies:
+        Dependency_0: a_png
+    Info_5:
+      Name: uipanelwithimageprefab_prefab
+      Dependencies: {}
+    Info_6:
+      Name: b_png
+      Dependencies: {}
+    Info_7:
+      Name: font
+      Dependencies: {}
+    Info_8:
+      Name: project
+      Dependencies: {}
+    Info_9:
+      Name: sprites
+      Dependencies: {}
+    Info_10:
+      Name: uiprefab
+      Dependencies:
+        Dependency_0: font
+    Info_11:
+      Name: testuipanels
+      Dependencies:
+        Dependency_0: uiprefab
+    Info_12:
+      Name: audio
+      Dependencies: {}

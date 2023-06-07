@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 2679495659
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ea46669a376c46d20d70987b36a60f48
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/Project/Pipe.asset
+- Assets/Art/Project/cloud.asset
+- Assets/Art/Project/Player.asset
+- Assets/Art/Project/Mount.asset
+- Assets/Art/Project/TwoCloud.asset
+Dependencies: []
